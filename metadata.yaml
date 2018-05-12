@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34305'
     url: http://www.gutenberg.org/2009/agents/34305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30008#Le-f-minisme-fran-ais-I--13-L--mancipation-individuelle-et-sociale-de-la-femme
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2009-09-17'
 gutenberg_type: Text
